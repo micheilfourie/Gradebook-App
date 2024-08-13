@@ -1,1 +1,1 @@
-freecodecamp Javascript Gradebook App
+freecodecamp js Gradebook App
